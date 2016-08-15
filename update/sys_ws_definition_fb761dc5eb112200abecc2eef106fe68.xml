@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ws_definition">
+    <sys_ws_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_uri>/api/sn_app3/hello4</base_uri>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_version>No active default version</default_version>
+        <doc_link/>
+        <enforce_acl/>
+        <is_versioned>false</is_versioned>
+        <name>hello4</name>
+        <namespace>sn_app3</namespace>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <service_id>hello4</service_id>
+        <short_description/>
+        <sys_class_name>sys_ws_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-15 22:01:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fb761dc5eb112200abecc2eef106fe68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hello4</sys_name>
+        <sys_package display_value="app3" source="sn_app3">0d6555c5eb112200abecc2eef106fe44</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="app3">0d6555c5eb112200abecc2eef106fe44</sys_scope>
+        <sys_update_name>sys_ws_definition_fb761dc5eb112200abecc2eef106fe68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-15 22:01:58</sys_updated_on>
+    </sys_ws_definition>
+</record_update>
